@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm not a professional programmer yet, but I really enjoy learning about coding and technology. For me, programming is like solving fun little puzzles. Right now, I'm focusing on learning web development — starting with HTML, CSS, JavaScript, and React. Although I'm still learning, I enjoy sharing my small projects as part of my growth journey. I believe that passion and consistency can take you far, even if you're just getting started. Thanks for visiting my profile, and feel free to connect or share feedback!</p>
+<p align="left">I'm not a professional programmer yet, but I really enjoy learning about coding and technology. For me, programming is like solving fun little puzzles. Right now, I'm focusing on learning web development starting with HTML, CSS, JavaScript, and React. Although I'm still learning, I enjoy sharing my small projects as part of my growth journey. I believe that passion and consistency can take you far, even if you're just getting started. Thanks for visiting my profile, and feel free to connect or share feedback!</p>
 
 ###
 
