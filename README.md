@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">I'm not a professional programmer yet, but I really enjoy learning about coding and technology. For me, programming is like solving fun little puzzles. Right now, I'm focusing on learning web development starting with HTML, CSS, JavaScript, and React. Although I'm still learning, I enjoy sharing my small projects as part of my growth journey. I believe that passion and consistency can take you far, even if you're just getting started. Thanks for visiting my profile, and feel free to connect or share feedback!</p>
+<p align="left">I'm not a professional developer yet, I have a strong passion for coding and technology. I view programming as an engaging and rewarding problem-solving process each project is an opportunity to learn and grow.
+
+I'm currently focused on front-end web development, with a particular interest in HTML, CSS, JavaScript, and React. As I continue building my skills, I enjoy working on personal projects to apply what I've learned and share my progress.
+
+I believe that dedication and a genuine love for learning can take you far, even in the early stages of your journey. Thank you for taking the time to visit my profile I'm always open to feedback, collaboration, or simply connecting with others who share similar interests.
+
+</p>
 
 ###
 
